@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/encs/bin/bash
 #
 # Helper script to manually start or join a Ray cluster for online serving of vLLM models.
 # This script is first executed on the head node, and then on each worker node with the IP address
